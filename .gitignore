@@ -1,0 +1,11 @@
+# Pastas de compilação do .NET
+bin/
+obj/
+
+# Configurações locais do ambiente do desenvolvedor
+.vs/
+.vscode/
+*.user
+
+# Logs e arquivos temporários
+*.log
